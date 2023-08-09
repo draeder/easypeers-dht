@@ -1,2 +1,3 @@
 # easypeers-dht
-Enables stable hash routing over easypeers and easypeers-signal
+> Enables stable hash routing over networks with unstable underlying addresses
+
